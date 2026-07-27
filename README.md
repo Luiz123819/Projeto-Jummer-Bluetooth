@@ -6,7 +6,7 @@ O sistema é baseado em um microcontrolador **ESP32** operando dois transceptore
 ## 📷 Galeria do Projeto
 
 <img width="450" height="340" alt="Screenshot_2026-07-27_14-08-14" src="https://github.com/user-attachments/assets/8f0166ff-d15b-4c22-ba03-4c69d1deabec" />
-<img width="300" height="300" alt="Screenshot_2026-07-27_14-06-39" src="https://github.com/user-attachments/assets/d80dff77-f732-42ac-afc5-ef134ccb9a1b" />
+<img width="400" height="700" alt="Screenshot_2026-07-27_14-06-39" src="https://github.com/user-attachments/assets/d80dff77-f732-42ac-afc5-ef134ccb9a1b" />
 <img width="439" height="774" alt="Screenshot_2026-07-27_14-06-23" src="https://github.com/user-attachments/assets/cf13959c-3587-4ea7-a50b-21737f4c72de" />
 <img width="510" height="837" alt="Screenshot_2026-07-27_13-56-57" src="https://github.com/user-attachments/assets/3f87c344-a698-4053-b288-49b7b1d86bc5" />
 
